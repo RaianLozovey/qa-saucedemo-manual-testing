@@ -14,7 +14,7 @@
 
 # 2. Objetivo
 
-Validar as principais funcionalidades da aplicação SauceDemo, garantindo que os fluxos críticos funcionem conforme o esperado e identificando possíveis falhas antes da disponibilização do sistema aos usuários.
+validar as principais funcionalidades da aplicação SauceDemo, verificando se os fluxos de Login, Produtos, Carrinho e Checkout funcionam corretamente e identificando possíveis falhas.
 
 ---
 
@@ -33,10 +33,7 @@ Serão testadas as seguintes funcionalidades:
 
 Não fazem parte deste projeto:
 
-- Testes de Performance
-- Testes de Segurança
-- Testes de Compatibilidade entre navegadores
-- Testes Mobile
+- Testes em dispositivos móveis
 
 ---
 
@@ -66,8 +63,7 @@ Durante este projeto serão executados:
 
 Para iniciar os testes é necessário:
 
-- Aplicação disponível.
-- Ambiente acessível.
+- Disponibilidade do ambiente.
 - Usuários de teste disponíveis.
 
 ---
@@ -87,6 +83,7 @@ Os testes serão considerados concluídos quando:
 
 Os seguintes riscos podem impactar os testes:
 
+- Massa de dados incorreta, desatualizada ou ausente.
 - Instabilidade da aplicação.
 - Indisponibilidade do ambiente.
 - Alterações na aplicação durante a execução dos testes.
@@ -98,7 +95,7 @@ Os seguintes riscos podem impactar os testes:
 - SauceDemo
 - GitHub
 - Visual Studio Code
-- Microsoft Excel
+- CHATGPT
 - Google Chrome
 
 ---
