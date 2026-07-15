@@ -14,13 +14,13 @@
 
 # 2. Objetivo
 
-validar as principais funcionalidades da aplicação SauceDemo, verificando se os fluxos de Login, Produtos, Carrinho e Checkout funcionam corretamente e identificando possíveis falhas.
+Validar as principais funcionalidades da aplicação SauceDemo, verificando se os fluxos de Login, Produtos, Carrinho e Checkout funcionam corretamente, identificando possíveis falhas e garantindo o comportamento esperado da aplicação.
 
 ---
 
 # 3. Escopo dos Testes
 
-Serão testadas as seguintes funcionalidades:
+Este projeto contempla a validação das seguintes funcionalidades:
 
 - Login
 - Listagem de Produtos
@@ -31,9 +31,9 @@ Serão testadas as seguintes funcionalidades:
 
 # 4. Fora do Escopo
 
-Não fazem parte deste projeto:
+Neste projeto não serão realizados:
 
-- Testes em dispositivos móveis
+- Testes em dispositivos móveis (responsividade).
 
 ---
 
@@ -63,7 +63,7 @@ Durante este projeto serão executados:
 
 Para iniciar os testes é necessário:
 
-- Disponibilidade do ambiente.
+- Disponibilidade e acessibilidade no ambiente.
 - Usuários de teste disponíveis.
 
 ---
@@ -93,13 +93,13 @@ Os seguintes riscos podem impactar os testes:
 # 10. Ferramentas Utilizadas
 
 - SauceDemo
-- GitHub
 - Visual Studio Code
-- CHATGPT
-- Google Chrome
+- Git
+- GitHub
+- ChatGPT (apoio aos estudos e revisão da documentação)
 
 ---
 
 # 11. Aprovação
 
-Este documento foi elaborado para fins de estudo e composição de portfólio em Quality Assurance.
+Este documento foi elaborado para fins de estudo e desenvolvimento de portfólio na área de Quality Assurance (QA).
